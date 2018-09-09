@@ -1,6 +1,6 @@
 This application is created to get an insight into react-native platform.
 
-NTOE : This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+>NOTE : This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Steps to run this code.
 
